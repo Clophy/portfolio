@@ -16,7 +16,7 @@ function HomePage() {
     <>
       <div className={Styles.contain}>
         <div className={Styles.photo}>
-          <Image src="/me.jpg" width={400} height={400} alt="baran genez" />
+          <Image src="/me.jpg" priority width={400} height={400} alt="baran genez" />
         </div>
         <div className={Styles.info}>
           <h1>Hello,</h1>
