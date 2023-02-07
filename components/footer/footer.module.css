@@ -1,12 +1,12 @@
 .contain{
     @apply
     flex
+    lg:flex-row
     lg:justify-evenly
-    lg:mt-12
     lg:w-full
     lg:py-10
 
-
+    mt-12
     bg-[#E83556]
     flex-col
     gap-4
