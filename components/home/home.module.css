@@ -46,6 +46,8 @@ p-8
 .paragraph{
     @apply
     mt-8
+    text-sm
+    font-bold
 }
 
 .links{
