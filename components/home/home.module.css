@@ -59,6 +59,12 @@ p-8
     gap-4
     mt-4
 }
+.links div:hover{
+    @apply
+    text-[#61D0D4]
+    transition-colors
+    duration-700
+}
 
 .email{
     @apply
