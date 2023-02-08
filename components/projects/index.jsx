@@ -14,11 +14,11 @@ function Projects() {
             <div className={Styles.blogPost}>
               <div className={Styles.title}>Country Api</div>
               <div className={Styles.text}>
-                Merhaba, frontendmentor.io&apos;dan bir api projesi yaptım. İlk
+                <p>Merhaba, frontendmentor.io&apos;dan bir api projesi yaptim. İlk
                 tailwindcss kullanarak geliştirdiğim proje oldu kendisi. Yine bu
-                projede ilk defa Dark Mode ve Filtreleme özelliği kullandım.
-                Selectbox özelleştirme kısmında çok zorlandım ve bir sonraki
-                projemde bununla ilgili bir çalışma yapmak isterim.
+                projede ilk defa Dark Mode ve Filtreleme özelliği kullandim.
+                Selectbox özelleştirme kisminda çok zorlandim ve bir sonraki
+                projemde bununla ilgili bir çalişma yapmak isterim.</p>
               </div>
               <div className={Styles.links}>
                 <Link href="https://countries-front-end-mentor.vercel.app/">
