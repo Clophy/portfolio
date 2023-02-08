@@ -1,0 +1,9 @@
+[
+  {
+    "title": "Country Api",
+    "text": "Merhaba, frontendmentor'dan aldığım bu projede İlk defa TailwindCss, dark mode ve filtreleme işlemleri yaptım. Benim için geliştirici bir projeydi",
+    "image": "/project.jpg",
+    "repository": "https://github.com/Clophy/countries-front-end-mentor",
+    "live": "https://countries-front-end-mentor.vercel.app/"
+  }
+]

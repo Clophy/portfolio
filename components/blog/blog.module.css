@@ -22,13 +22,17 @@
 .leftSide{
     @apply
     lg:w-3/4
-
+    flex
+    flex-col-reverse
+    justify-end
     mt-12
     w-full
 }
+
+
+
 .blogPost{
     @apply
-    border-t
     border-b
     border-black
     flex
@@ -41,6 +45,11 @@
     lg:justify-between
 
 
+}
+.leftSide > div:last-child{
+    @apply
+    border-t
+    border-black
 }
 .title{
     @apply

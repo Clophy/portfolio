@@ -1,4 +1,9 @@
 
+.contain{
+    @apply
+    flex
+    flex-col-reverse
+}
 .project{
     @apply
     lg:w-3/4
