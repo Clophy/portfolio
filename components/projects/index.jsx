@@ -14,7 +14,7 @@ function Projects() {
             <div className={Styles.blogPost}>
               <div className={Styles.title}>Country Api</div>
               <div className={Styles.text}>
-                <p>Merhaba, frontendmentor.io&apos;dan bir api projesi yaptim. İlk
+                <p>Merhaba, frontendmentor.io&lsquo;dan bir api projesi yaptim. İlk
                 tailwindcss kullanarak geliştirdiğim proje oldu kendisi. Yine bu
                 projede ilk defa Dark Mode ve Filtreleme özelliği kullandim.
                 Selectbox özelleştirme kisminda çok zorlandim ve bir sonraki
