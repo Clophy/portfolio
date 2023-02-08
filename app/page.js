@@ -4,6 +4,7 @@ import Footer from "@/components/footer";
 import Header from "@/components/header";
 import HomePage from "@/components/home";
 import Blog from "@/components/blog";
+import Projects from "@/components/projects";
 
 
 
@@ -13,6 +14,7 @@ export default function Home() {
   useEffect(() => {
    active === 1 && setBaran(<HomePage/>)
    active === 2 && setBaran(<Blog/>)
+   active === 3 && setBaran(<Projects/>)
   },[active]);
 
   return (

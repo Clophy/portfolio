@@ -13,14 +13,7 @@ function Blog() {
           <div className={Styles.blogPost}>
             <div className={Styles.title}>Professional Info</div>
             <div className={Styles.text}>
-              Merhabalar ben Baran Genez. Sinop Üniversitesi İşletme Bölümü
-              mezunuyum. 2022 kasım ayında bilgisayar başına oturdum ve
-              front-end developer olmaya karar verdim. Gördüğüm web sitesini
-              html, css, tailwind, javascript, react ve next js kullanarak
-              oluşturabilirim. Bu alanda gelişebileceğim kendime bir şeyler
-              katabileceğim ve çalıştığım yerde direkt projelere yardım
-              edebileceğim veya projelerin süreçlerine etki edebileceğim iş
-              tekliflerine açığım.
+              Merhabalar burası şu an için boş kalmak durumunda ileride burayı doldurmak niyetiyle şimdilik bir yazı ekliyorum...
               
             </div>
           </div>
