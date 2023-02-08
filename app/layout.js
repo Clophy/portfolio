@@ -7,7 +7,7 @@ const notic = Noticia_Text({subsets:["latin"], weight:["400","700"]})
 export default function RootLayout({ children }) {
 
   return (
-    <html lang="en">
+    <html lang="tr">
       
       <head />
       <body className={notic.className}>
