@@ -20,18 +20,18 @@ function Projects() {
                 <p>{data.text}</p>
               </div>
               <div className={Styles.links}>
-                <Link href={`${data.repository}`}>
+                <Link href={data.repository}>
                   <div className={Styles.titlex}>Github Repository</div>
                 </Link>
-                <Link href={`${data.live}`}>
+                <Link href={data.live}>
                   <div className={Styles.titley}>Live Demo</div>
                 </Link>
               </div>
             </div>
           </div>
           <div className={Styles.rightSide}>
-            <Link href={`${data.live}`}>
-              <Image src={`${data.image}`} alt="qwe" width={450} height={400} />
+            <Link href={data.live}>
+              <Image src={data.image} alt={data.alt} width={450} height={400} />
             </Link>
           </div>
         </div>)}
