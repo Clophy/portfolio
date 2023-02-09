@@ -9,3 +9,7 @@ html, body{
     text-[#4D4D4D]
 }
 
+* {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
