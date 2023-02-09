@@ -7,7 +7,7 @@
     lg:py-10
 
     lg:mt-36
-    bg-[#6a041d]
+    bg-[#E83556]
     flex-col
     gap-4
     justify-start
@@ -34,7 +34,7 @@ flex-col
 
 }
 
-.iconText h6{
+.iconText h3{
     @apply
     text-xl
     text-white
