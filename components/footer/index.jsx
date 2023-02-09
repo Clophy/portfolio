@@ -31,7 +31,7 @@ function Footer() {
             <AiFillPlusCircle />
             <div className={Styles.iconText}>
               <h3>Follow Me</h3>
-              <p><Link href="https://www.twitter.com/barangenez"><FaTwitter/></Link></p>
+              <p><Link href="https://www.twitter.com/barangenez" alt="twitter"><FaTwitter/></Link></p>
             </div>
           </div>
           <div className={Styles.icon}>
