@@ -6,13 +6,16 @@ export default function Head(){
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
   
-        <title>Baran Genez</title>
-        <meta name="description" content="Front-End Developer" />
+        <title>Baran Genez - Kişisel Web Sitesi</title>
+        <meta name="description" content="Front-End Developer, Kişisel blog, HTML, CSS, Javascript, React, NextJS" />
+        <meta name="author" content="Baran Genez, barangenez@hotmail.com"/>
         <link rel="canonical" href="https://www.barangenez.com" />
-  
+        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+
+        <meta name="publisher" content="Next.js 13" />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Baran Genez - Kişisel Web Sitesi" />
-        <meta property="og:description" content="Front-End Developer" />
+        <meta property="og:description" content="Front-End Developer, Kişisel blog, HTML, CSS, Javascript, React, NextJS" />
         <meta property="og:url" content="https://www.barangenez.com" />
   
         <meta name="twitter:card" content="summary" />

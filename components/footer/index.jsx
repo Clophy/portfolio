@@ -24,7 +24,7 @@ function Footer() {
             <AiOutlineMail />
             <div className={Styles.iconText}>
               <h3>E-mail</h3>
-              <p><Link href='mailto:barangenez@hotmail.com'>barangenez@hotmail.com</Link></p>
+              <p><Link href='mailto:barangenez@hotmail.com' alt="Mail Gönder" title="Mail Gönder">barangenez@hotmail.com</Link></p>
             </div>
           </div>
           <div className={Styles.icon}>

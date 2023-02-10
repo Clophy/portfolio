@@ -23,17 +23,17 @@ function HomePage() {
           <h2>a bit about me:</h2>
           <div className={Styles.links}>
             <div>
-              <Link href="https://github.com/Clophy" title="github">
+              <Link href="https://github.com/Clophy" noFollow  title="github">
                 <FaGithub />
               </Link>
             </div>
             <div>
-              <Link href="https://www.linkedin.com/in/baran-genez-ba759419a/" title="linkedin">
+              <Link href="https://www.linkedin.com/in/baran-genez-ba759419a/" noFollow title="linkedin">
                 <FaLinkedin />
               </Link>
             </div>
             <div>
-              <Link href="https://www.twitter.com/barangenez" title="twitter">
+              <Link href="https://www.twitter.com/barangenez" noFollow title="twitter">
                 <FaTwitter />
               </Link>
             </div>
