@@ -11,7 +11,7 @@ export default function Head(){
         <link rel="canonical" href="https://www.barangenez.com" />
   
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="Baran Genez" />
+        <meta property="og:title" content="Baran Genez - Kişisel Web Sitesi" />
         <meta property="og:description" content="Front-End Developer" />
         <meta property="og:url" content="https://www.barangenez.com" />
   
