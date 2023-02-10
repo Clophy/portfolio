@@ -38,7 +38,7 @@ function Footer() {
             <AiOutlineCopyrightCircle />
             <div className={Styles.iconText}>
               <p>2023 &copy;</p>
-              <p>Created by Baran Genez</p>
+              <p>Created with NextJS & Tailwindcss by Baran Genez</p>
             </div>
           </div>
         </div>
