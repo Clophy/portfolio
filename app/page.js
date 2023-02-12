@@ -5,6 +5,7 @@ import Header from "@/components/header";
 import HomePage from "@/components/home";
 import Blog from "@/components/blog";
 import Projects from "@/components/projects";
+import Script from "next/script";
 
 
 
@@ -20,6 +21,21 @@ export default function Home() {
   return (
     <>
     <Header active={active} setActive={setActive}/>
+    
+    <Script
+        src="https://www.googletagmanager.com/gtag/js?id=G-3KN9FKWZCV"
+        strategy="afterInteractive"
+      />
+      <Script id="google-analytics" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){window.dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-3KN9FKWZCV');
+        `}
+      </Script>
+   
     {baran}
     <Footer/>
 
