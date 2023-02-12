@@ -11,7 +11,7 @@ export default function Head(){
         <meta name="author" content="Baran Genez, barangenez@hotmail.com"/>
         <link rel="canonical" href="https://www.barangenez.com" />
         <link rel="icon" href="/favicon.ico" type="image/x-icon" />
-
+        <meta name="yandex-verification" content="5bf1296242b30a64" />
         <meta name="publisher" content="Next.js 13" />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Baran Genez - Kişisel Web Sitesi" />
