@@ -21,7 +21,7 @@ export default function Home() {
   return (
     <>
     <Header active={active} setActive={setActive}/>
-    
+
     <Script
         src="https://www.googletagmanager.com/gtag/js?id=G-3KN9FKWZCV"
         strategy="afterInteractive"

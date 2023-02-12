@@ -24,7 +24,8 @@ export default function Head(){
         <meta name="twitter:description" content="Front-End Developer" />
         <meta name="twitter:url" content="https://www.barangenez.com" />
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2488936485276091"
-     crossorigin="anonymous"></script>
+     crossOrigin="anonymous"></script>
+     
       </>
     )
 }
