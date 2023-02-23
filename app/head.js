@@ -17,7 +17,7 @@ export default function Head(){
         <meta property="og:title" content="Baran Genez - Kişisel Web Sitesi" />
         <meta property="og:description" content="Front-End Developer, Kişisel blog, HTML, CSS, Javascript, React, NextJS" />
         <meta property="og:url" content="https://www.barangenez.com" />
-  
+        <meta name="ahrefs-site-verification" content="fee4688ab2988eb9c3b99c43599a06a7ec9d373ea0a1c911150366634e1baf9c"/>
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="@barangenez" />
         <meta name="twitter:title" content="Baran Genez" />
