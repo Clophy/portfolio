@@ -42,14 +42,12 @@ function HomePage() {
             {/* <div className={Styles.email}><Link href="mailto:barangenez@hotmail.com">Email</Link></div> */}
           </div>
           <p className={Styles.paragraph}>
-            Merhabalar ben Baran Genez. Sinop Üniversitesi
+            Merhabalar ben <strong>Baran Genez</strong>. Sinop Üniversitesi
             İşletme Bölümü mezunuyum. 2022 kasım ayında bilgisayar başına
             oturdum ve front-end developer olmaya karar verdim.
             Gördüğüm web sitesini html, css, tailwind, javascript, react ve next js
             kullanarak oluşturabilirim. Bu alanda gelişebileceğim kendime bir
-            şeyler katabileceğim ve çalıştığım yerde direkt projelere yardım
-            edebileceğim veya projelerin süreçlerine etki edebileceğim iş
-            tekliflerine açığım.
+            şeyler katabileceğim ve çalıştığım yerde direkt projelerin süreçlerine etki edebileceğim iş aramaktayım.
           </p>
         </div>
       </div>
