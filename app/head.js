@@ -1,3 +1,5 @@
+import Script from "next/script"
+
 export default function Head(){
     return(
         <>
@@ -25,8 +27,20 @@ export default function Head(){
         <meta name="twitter:url" content="https://www.barangenez.com" />
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2488936485276091"
      crossOrigin="anonymous"></script>
-     
-        
+
+        <Script
+        src="https://www.googletagmanager.com/gtag/js?id=G-3KN9FKWZCV"
+        strategy="afterInteractive"
+      />
+      <Script id="google-analytics" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){window.dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-3KN9FKWZCV');
+        `}
+      </Script>
      
       </>
     )
