@@ -43,8 +43,7 @@ function HomePage() {
           </div>
           <p className={Styles.paragraph}>
             Merhabalar ben <strong>Baran Genez</strong>. Sinop Üniversitesi
-            İşletme Bölümü mezunuyum. 2022 kasım ayında bilgisayar başına
-            oturdum ve front-end developer olmaya karar verdim.
+            İşletme Bölümü mezunuyum. Yazılıma büyük bi ilgim bulunuyordu ve Front-end developer olmaya karar verdim.
             Gördüğüm web sitesini html, css, tailwind, javascript, react ve next js
             kullanarak oluşturabilirim. Bu alanda gelişebileceğim kendime bir
             şeyler katabileceğim ve çalıştığım yerde direkt projelerin süreçlerine etki edebileceğim iş aramaktayım.
