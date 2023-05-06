@@ -1,5 +1,5 @@
 "use client"
-import React,{useState,useEffect} from "react";
+import React from "react";
 import '@/styles/global.css'
 import {Noticia_Text} from '@next/font/google'
 import Header from "@/components/header";
@@ -9,7 +9,7 @@ import {Analytics} from '@vercel/analytics/react'
 const notic = Noticia_Text({subsets:["latin"], weight:["400","700"]})
 
 export default function RootLayout({ children }) {
-  const [active, setActive] = useState(1)
+  
  
 
   return (
@@ -17,7 +17,7 @@ export default function RootLayout({ children }) {
       
       <head />
       <body className={notic.className}>
-      <Header active={active} setActive={setActive}/>
+      <Header/>
       <main>
       {children}
       <Analytics/>
