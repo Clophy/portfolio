@@ -1,7 +1,6 @@
 [
   {
     "title": "Image Slider",
-   // "text": "İlk Javascript projem. Javascript DOM öğrenmeye başladığım ilk gün yapmıştım. Yeri bende ayrıdır.",
     "text": "İlk Javascript projem.",
     "image": "/image-slider.jpg",
     "alt":"image-slider",
@@ -18,7 +17,6 @@
   },
   {
     "title": "SignUp Page",
-    // "text": "Hoş bir giriş sayfası, bir yere bir istek yollamıyor ancak javascript ile kullanıcı girişlerini kontrol ediyor. HTML - CSS - JS",
     "text": "HTML - CSS - JS",
     "image": "/signup.jpg",
     "alt":"signup",
@@ -27,7 +25,6 @@
   },
   {
     "title": "Time Tracking",
-    //"text": "İlk nextJs deneyimim. Yaparken çok zevk aldım, tasarımı da gerçekten hoş",
     "text": "NextJs ilk bakis",
     "image": "/time-tracking.jpg",
     "alt":"time-tracking",
@@ -36,7 +33,6 @@
   },
   {
     "title": "Product Page",
-    //"text": "Gerçek bir proje yapıyor gibi hissettim, çok fazla şey var gibi geliyordu",
     "text": "Simple Product Page",
     "image": "/product-page.jpg",
     "alt":"product-page",
@@ -45,7 +41,6 @@
   },
   {
     "title": "Country Api",
-   // "text": "Tailwindcss dokümantasyonlarında gezerken, yapacağım ilk projeyi bununla yapmadan öğrenemem diyip bu projeye başladım ve tailwind ile yaptım. NEXT JS - TAILWINDCSS",
     "text": "Tailwindcss, flag api",
     "image": "/countries-api.jpg",
     "alt":"countries-api",
