@@ -1,7 +1,8 @@
 [
   {
     "title": "Image Slider",
-    "text": "İlk Javascript projem. Javascript DOM öğrenmeye başladığım ilk gün yapmıştım. Yeri bende ayrıdır.",
+   // "text": "İlk Javascript projem. Javascript DOM öğrenmeye başladığım ilk gün yapmıştım. Yeri bende ayrıdır.",
+    "text": "İlk Javascript projem.",
     "image": "/image-slider.jpg",
     "alt":"image-slider",
     "repository": "https://github.com/Clophy/Front-End-Learning/tree/master/50days50project/day1",
@@ -17,7 +18,8 @@
   },
   {
     "title": "SignUp Page",
-    "text": "Hoş bir giriş sayfası, bir yere bir istek yollamıyor ancak javascript ile kullanıcı girişlerini kontrol ediyor. HTML - CSS - JS",
+    // "text": "Hoş bir giriş sayfası, bir yere bir istek yollamıyor ancak javascript ile kullanıcı girişlerini kontrol ediyor. HTML - CSS - JS",
+    "text": "HTML - CSS - JS",
     "image": "/signup.jpg",
     "alt":"signup",
     "repository": "https://github.com/Clophy/Front-End-Learning/tree/master/intro-component-with-signup-form-master",
@@ -25,7 +27,8 @@
   },
   {
     "title": "Time Tracking",
-    "text": "İlk nextJs deneyimim. Yaparken çok zevk aldım, tasarımı da gerçekten hoş",
+    //"text": "İlk nextJs deneyimim. Yaparken çok zevk aldım, tasarımı da gerçekten hoş",
+    "text": "NextJs ilk bakis",
     "image": "/time-tracking.jpg",
     "alt":"time-tracking",
     "repository": "https://github.com/Clophy/front-end-mentor/tree/main/time-tracking",
@@ -33,7 +36,8 @@
   },
   {
     "title": "Product Page",
-    "text": "Gerçek bir proje yapıyor gibi hissettim, çok fazla şey var gibi geliyordu",
+    //"text": "Gerçek bir proje yapıyor gibi hissettim, çok fazla şey var gibi geliyordu",
+    "text": "Simple Product Page",
     "image": "/product-page.jpg",
     "alt":"product-page",
     "repository": "https://github.com/Clophy/front-end-mentor2/tree/main/product-page",
@@ -41,7 +45,8 @@
   },
   {
     "title": "Country Api",
-    "text": "Tailwindcss dokümantasyonlarında gezerken, yapacağım ilk projeyi bununla yapmadan öğrenemem diyip bu projeye başladım ve tailwind ile yaptım. NEXT JS - TAILWINDCSS",
+   // "text": "Tailwindcss dokümantasyonlarında gezerken, yapacağım ilk projeyi bununla yapmadan öğrenemem diyip bu projeye başladım ve tailwind ile yaptım. NEXT JS - TAILWINDCSS",
+    "text": "Tailwindcss, flag api",
     "image": "/countries-api.jpg",
     "alt":"countries-api",
     "repository": "https://github.com/Clophy/countries-front-end-mentor",
