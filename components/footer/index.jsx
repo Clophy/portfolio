@@ -13,11 +13,11 @@ function Footer() {
     <>
       <footer className={Styles.footer}>
         <div className={Styles.contain}>
-          <div className={Styles.icon}>
-            <FaPhoneSquareAlt />
-            <div className={Styles.iconText}>
-              <h3>Phone</h3>
-              <p>+905456590165</p>
+       //   <div className={Styles.icon}>
+       //     <FaPhoneSquareAlt />
+       //     <div className={Styles.iconText}>
+       //       <h3>Phone</h3>
+       //       <p>+905456590165</p>
             </div>
           </div>
           <div className={Styles.icon}>
