@@ -42,7 +42,7 @@ function HomePage() {
             {/* <div className={Styles.email}><Link href="mailto:barangenez@hotmail.com">Email</Link></div> */}
           </div>
           <p className={Styles.paragraph}>
-            Merhabalar ben <strong>Baran Genez</strong>. Buralarda biraz degisiklik yapma vakti geldi sanirim.. 
+            Buralarda biraz degisiklik yapma vakti geldi sanirim.. 
           </p>
         </div>
       </div>
